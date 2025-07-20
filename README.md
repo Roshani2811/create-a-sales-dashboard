@@ -5,3 +5,5 @@ DOMAIN: POWER BI
 DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 # I REALLY LIKE TO WORK WITH CODETECH. I HAD A GREAT EXPERIENCE WITH CODETECH
+output: <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/223298b2-c9a2-4126-86e6-bdfe1481b7ca" />
+
